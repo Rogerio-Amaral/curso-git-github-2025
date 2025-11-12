@@ -1,0 +1,4 @@
+ls -a -> Lista arquivos ocultos
+mkdir -> cria nova pasta
+pwd -> mostra o camimho atual, onde estou.
+rm -> remove arquivos
