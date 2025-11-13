@@ -1,5 +1,5 @@
 esse é um arquivo novo
 
-mais uma linha nesse arquivo
+mais linhas no arquivo
 
-Nova linha
+mais linhas
